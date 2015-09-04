@@ -6,3 +6,6 @@ perdona nuestros conflictos,
 como tambien perdonamos los de otros geeks
 Venga a nosotros tu log
 En el local como el remote
+No nos dejes caer en detach HEAD
+y libranos de SVN
+git commit --amend
